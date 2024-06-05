@@ -20,10 +20,14 @@ And that's all
 
 ## runner.html:
 
+![image](https://github.com/burnedpopcorn/barerunner/blob/main/rload.png)
+![image](https://github.com/burnedpopcorn/barerunner/blob/main/rgame.png)
 ![image](https://github.com/burnedpopcorn/barerunner/blob/main/runner.png)
 
 ## barerunner.html:
 
+![image](https://github.com/burnedpopcorn/barerunner/blob/main/brload.png)
+![image](https://github.com/burnedpopcorn/barerunner/blob/main/brgame.png)
 ![image](https://github.com/burnedpopcorn/barerunner/blob/main/barerunner.png)
 
 ### So...
