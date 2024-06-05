@@ -16,9 +16,13 @@ And that's all
 
 ### Examples
 
-runner.html:
-![image](https://github.com/burnedpopcorn/barerunner/blob/main/barerunner.png)
-barerunner.html:
+## runner.html:
+
 ![image](https://github.com/burnedpopcorn/barerunner/blob/main/runner.png)
+
+## barerunner.html:
+
+![image](https://github.com/burnedpopcorn/barerunner/blob/main/barerunner.png)
+
 ### So...
 I know that this is a somewhat useless repo to make, as no one will really use it, but idc, might as well
