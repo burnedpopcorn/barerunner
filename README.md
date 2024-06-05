@@ -9,6 +9,8 @@ barerunner.html does everything that runner.html does, but strips away useless f
 > There are left over ad functions in runner.html that to my knowledge are even used, so I removed it
 - Useless Button Removal
 > The Three Buttons on the bottom left are very useless (maybe not toggle console, but still), so I also removed then along with their associated code
+- Pause Menu Removal
+> removed Pause Menu because it can get annoying and is unnecessary
 - Simplized Background
 > A Simplized Background that just matches the default game frame background (black)
 
