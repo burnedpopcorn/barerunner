@@ -6,7 +6,7 @@ runner.html is a file that runs a GameMaker Studio 2 project that was compiled f
 ### About
 barerunner.html does everything that runner.html does, but strips away useless functionality and makes the website more simpler, these removals include:
 - AD Removal
-> There are left over ad functions in runner.html that to my knowledge are even used, so I removed it
+> There are left over ad functions in runner.html that to my knowledge aren't even used, so I removed it
 - Useless Button Removal
 > The Three Buttons on the bottom left are very useless (maybe not toggle console, but still), so I also removed then along with their associated code
 - Pause Menu Removal
