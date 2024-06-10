@@ -4,7 +4,7 @@ A Stripped-Down Replacement for runner.html
 ### Context
 runner.html is a file that runs a GameMaker Studio 2 project that was compiled for GX.GAMES, and is compiled along with the project files when compiling a test run, but runner.html is bloated with unnecessary functionality, and that brings us to barerunner.html
 ### About
-barerunner.html does everything that runner.html does, but strips away useless functionality and makes the website more simpler, these removals include:
+barerunner.html does everything that runner.html does, but strips away useless functionality and makes the website more simpler, and those removals include:
 - AD Removal
 > There are left over ad functions in runner.html that to my knowledge aren't even used, so I removed it
 - Useless Button Removal
