@@ -15,6 +15,8 @@ barerunner.html does everything that runner.html does, but strips away useless f
 > A Simplized Background that just matches the default game frame background (black)
 
 And that's all
+> [!WARNING]
+> Mobile will NOT work with this file
 
 ### Examples
 
