@@ -1,6 +1,13 @@
 # barerunner
 A Stripped-Down Replacement for runner.html
 
+> [!NOTE]
+> THIS PROJECT HAS BEEN ARCHIVED AND DISCONTINUED
+>
+> If you want a Better Runner with More Features, please consider using my new BetterRunner Project instead
+>
+> https://github.com/burnedpopcorn/BetterRunner
+
 ### Context
 runner.html is a file that runs a GameMaker Studio 2 project that was compiled for GX.GAMES, and is compiled along with the project files when compiling a test run, but runner.html is bloated with unnecessary functionality, and that brings us to barerunner.html
 ### About
